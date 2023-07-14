@@ -303,7 +303,7 @@ button{
   
 
 .login__logo-img{
-    position: fixed;
+    position: absolute;
     top: 13%;
     left: 50%;
     transform: translate(-50%, -50%);
